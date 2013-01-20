@@ -22,7 +22,7 @@ This is also my way of giving back to the community, I have learned so much from
 
 
 ## License
-Artisan for iOS is released under a slightly modified [Simplified BSD License](https://github.com/nmock/artisan/blob/master/LICENSE).
+Artisan for iOS is released under a slightly modified [Simplified BSD License](https://github.com/nmock/artisan-ios/blob/master/LICENSE).
 
 Please don't upload this code directly to the App Store as is without making subsantial improvements. In other words, please don't be a jerk.
 
