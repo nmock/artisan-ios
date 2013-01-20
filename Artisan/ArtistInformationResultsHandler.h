@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 #import "Artist.h"
 
-//#error  Please enter your API Keys and remove this line.
+#error  Please enter your API Keys and remove this line.
 
 // http://www.last.fm/api/account/create
 // http://8tracks.com/developers/new
