@@ -13,7 +13,7 @@ Next, open up Xcode and define the constants, `EIGHT_TRACKS_API_KEY`and `LAST_FM
 ## Screen Shots
 ![Initial Screen](http://i.imgur.com/0BaXNIN.png)
 ![Artist Information](http://i.imgur.com/kN965LI.png)
-![Mixes](http://i.imgur.com/oQ4LOEr.png)
+![Playing Mix](http://i.imgur.com/5ao6bM8.png)
 
 ## Why is this open source?
 This is open source because I hope that you can learn from it! This is a simple app that should inspire new iOS app developers. I am still learning too, so any improvements or suggestions in the way that I am doing things are greatly appreciated.
