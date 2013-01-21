@@ -1,7 +1,7 @@
 Artisan for iOS
 ===========
 
-Artisan is a simple iOS application to search for and display information and mixes from a particular musical artist. It utilizes the 8Tracks and Last.FM APIs.
+Artisan is a simple iOS application to search for and display information and related mixes from a particular musical artist. It utilizes the 8Tracks and Last.FM APIs.
 
 If you have any questions, email me at nathan@nathanmock.com or create a new issue with specifics.
 
