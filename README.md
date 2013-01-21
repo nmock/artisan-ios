@@ -5,15 +5,15 @@ Artisan is a simple iOS application to search for and display information and mi
 
 If you have any questions, email me at nathan@nathanmock.com or create a new issue with specifics.
 
-## Getting Started
-Obtain your API keys from [Last.FM](http://www.last.fm/api/account/create) and [8Tracks](http://8tracks.com/developers/new).
-
-Next, open up Xcode and define the constants, `EIGHT_TRACKS_API_KEY`and `LAST_FM_API_KEY` in [`ArtistInformationResultsHandler.h`](https://github.com/nmock/artisan-ios/blob/master/Artisan/ArtistInformationResultsHandler.h) with the API keys you just obtained.
-
 ## Screen Shots
 ![Initial Screen](http://i.imgur.com/0BaXNIN.png)
 ![Artist Information](http://i.imgur.com/kN965LI.png)
 ![Playing Mix](http://i.imgur.com/5ao6bM8.png)
+
+## Getting Started
+Obtain your API keys from [Last.FM](http://www.last.fm/api/account/create) and [8Tracks](http://8tracks.com/developers/new).
+
+Next, open up Xcode and define the constants, `EIGHT_TRACKS_API_KEY`and `LAST_FM_API_KEY` in [`ArtistInformationResultsHandler.h`](https://github.com/nmock/artisan-ios/blob/master/Artisan/ArtistInformationResultsHandler.h) with the API keys you just obtained.
 
 ## Why is this open source?
 This is open source because I hope that you can learn from it! This is a simple app that should inspire new iOS app developers. I am still learning too, so any improvements or suggestions in the way that I am doing things are greatly appreciated.
