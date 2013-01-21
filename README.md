@@ -6,9 +6,10 @@ Artisan is a simple iOS application to search for and display information and mi
 If you have any questions, email me at nathan@nathanmock.com or create a new issue with specifics.
 
 ## Screen Shots
-![Initial Screen](http://i.imgur.com/0BaXNIN.png)
-![Artist Information](http://i.imgur.com/kN965LI.png)
-![Playing Mix](http://i.imgur.com/5ao6bM8.png)
+![Initial Screen](http://i.imgur.com/hQ7lHVf.gif)
+![Artist Information](http://i.imgur.com/R7Z4Omw.gif)
+![Artist Mixes](http://i.imgur.com/N0qrzE2.gif)
+![Playing Mix](http://i.imgur.com/XjiVGml.gif)
 
 ## Getting Started
 Obtain your API keys from [Last.FM](http://www.last.fm/api/account/create) and [8Tracks](http://8tracks.com/developers/new).
