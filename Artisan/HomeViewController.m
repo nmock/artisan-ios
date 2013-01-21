@@ -1,5 +1,5 @@
 //
-//  ViewController.m
+//  HomeViewController.m
 //  Artisan
 //
 //  Created by Nathan Mock on 1/19/13.
