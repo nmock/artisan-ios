@@ -56,6 +56,8 @@ static const CGFloat artistImageHeight = 140.0;
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
     
+    [[NSNotificationCenter defaultCenter] removeObserver:self];
+    
     [[NSNotificationCenter defaultCenter] addObserver:self
                                              selector:@selector(receivedArtistInformation:)
                                                  name:RECEIVED_ARTIST_INFORMATION

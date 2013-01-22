@@ -40,8 +40,8 @@
 	<true/>
 	<key>UIAppFonts</key>
 	<array>
-		<string>GothamHTF-Bold.otf</string>
-		<string>GothamHTF-Light.otf</string>
+		<string>OpenSans-ExtraBold.ttf</string>
+		<string>OpenSans-Light.ttf</string>
 	</array>
 	<key>UIPrerenderedIcon</key>
 	<true/>

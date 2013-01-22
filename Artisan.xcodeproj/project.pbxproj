@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E83E8C3916AE2E6F0055525D /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E83E8C3716AE2E6F0055525D /* OpenSans-ExtraBold.ttf */; };
+		E83E8C3A16AE2E6F0055525D /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E83E8C3816AE2E6F0055525D /* OpenSans-Light.ttf */; };
 		E844AB3316AB71AE00B34708 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E844AB3216AB71AE00B34708 /* UIKit.framework */; };
 		E844AB3516AB71AE00B34708 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E844AB3416AB71AE00B34708 /* Foundation.framework */; };
 		E844AB3716AB71AE00B34708 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E844AB3616AB71AE00B34708 /* CoreGraphics.framework */; };
@@ -43,8 +45,6 @@
 		E8B5D5D916AC9AE60063B8AE /* GTMNSString+HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = E8B5D5C216AC9AE60063B8AE /* GTMNSString+HTML.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		E8B5D5DA16AC9AE60063B8AE /* NSString+HTML.m in Sources */ = {isa = PBXBuildFile; fileRef = E8B5D5C416AC9AE60063B8AE /* NSString+HTML.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		E8B5D5DB16AC9AE60063B8AE /* UIView+ViewHelpers.m in Sources */ = {isa = PBXBuildFile; fileRef = E8B5D5C616AC9AE60063B8AE /* UIView+ViewHelpers.m */; };
-		E8B5D5DC16AC9AE60063B8AE /* GothamHTF-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = E8B5D5C816AC9AE60063B8AE /* GothamHTF-Bold.otf */; };
-		E8B5D5DD16AC9AE60063B8AE /* GothamHTF-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = E8B5D5C916AC9AE60063B8AE /* GothamHTF-Light.otf */; };
 		E8B5D5DE16AC9AE60063B8AE /* 8TracksLogo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E8B5D5CB16AC9AE60063B8AE /* 8TracksLogo@2x.png */; };
 		E8B5D5DF16AC9AE60063B8AE /* ArtistImagePlaceholder@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E8B5D5CC16AC9AE60063B8AE /* ArtistImagePlaceholder@2x.png */; };
 		E8B5D5E016AC9AE60063B8AE /* cardboard_flat@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E8B5D5CD16AC9AE60063B8AE /* cardboard_flat@2x.png */; };
@@ -56,6 +56,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E83E8C3716AE2E6F0055525D /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		E83E8C3816AE2E6F0055525D /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
 		E844AB2E16AB71AE00B34708 /* Artisan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Artisan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E844AB3216AB71AE00B34708 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E844AB3416AB71AE00B34708 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -119,8 +121,6 @@
 		E8B5D5C416AC9AE60063B8AE /* NSString+HTML.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+HTML.m"; sourceTree = "<group>"; };
 		E8B5D5C516AC9AE60063B8AE /* UIView+ViewHelpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+ViewHelpers.h"; sourceTree = "<group>"; };
 		E8B5D5C616AC9AE60063B8AE /* UIView+ViewHelpers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+ViewHelpers.m"; sourceTree = "<group>"; };
-		E8B5D5C816AC9AE60063B8AE /* GothamHTF-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GothamHTF-Bold.otf"; sourceTree = "<group>"; };
-		E8B5D5C916AC9AE60063B8AE /* GothamHTF-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GothamHTF-Light.otf"; sourceTree = "<group>"; };
 		E8B5D5CB16AC9AE60063B8AE /* 8TracksLogo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "8TracksLogo@2x.png"; sourceTree = "<group>"; };
 		E8B5D5CC16AC9AE60063B8AE /* ArtistImagePlaceholder@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ArtistImagePlaceholder@2x.png"; sourceTree = "<group>"; };
 		E8B5D5CD16AC9AE60063B8AE /* cardboard_flat@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cardboard_flat@2x.png"; sourceTree = "<group>"; };
@@ -299,8 +299,8 @@
 		E8B5D5C716AC9AE60063B8AE /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				E8B5D5C816AC9AE60063B8AE /* GothamHTF-Bold.otf */,
-				E8B5D5C916AC9AE60063B8AE /* GothamHTF-Light.otf */,
+				E83E8C3716AE2E6F0055525D /* OpenSans-ExtraBold.ttf */,
+				E83E8C3816AE2E6F0055525D /* OpenSans-Light.ttf */,
 			);
 			name = Fonts;
 			path = "Supporting Files/Fonts";
@@ -376,8 +376,6 @@
 				E8B5D5A716AC9A260063B8AE /* Default-568h@2x.png in Resources */,
 				E8B5D5A916AC9A370063B8AE /* Default@2x.png in Resources */,
 				E8B5D5AB16AC9A3B0063B8AE /* Default.png in Resources */,
-				E8B5D5DC16AC9AE60063B8AE /* GothamHTF-Bold.otf in Resources */,
-				E8B5D5DD16AC9AE60063B8AE /* GothamHTF-Light.otf in Resources */,
 				E8B5D5DE16AC9AE60063B8AE /* 8TracksLogo@2x.png in Resources */,
 				E8B5D5DF16AC9AE60063B8AE /* ArtistImagePlaceholder@2x.png in Resources */,
 				E8B5D5E016AC9AE60063B8AE /* cardboard_flat@2x.png in Resources */,
@@ -386,6 +384,8 @@
 				E8B5D5E516AC9E3F0063B8AE /* Icon@2x.png in Resources */,
 				E8B5D5E716AC9E440063B8AE /* Icon.png in Resources */,
 				E8B5D5E916ACA51A0063B8AE /* BackgroundIcon@2x.png in Resources */,
+				E83E8C3916AE2E6F0055525D /* OpenSans-ExtraBold.ttf in Resources */,
+				E83E8C3A16AE2E6F0055525D /* OpenSans-Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

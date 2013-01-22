@@ -28,11 +28,11 @@
 }
 
 + (UIFont*) fontOfSize:(NSInteger)size {
-    return [UIFont fontWithName:@"GothamHTF-Light" size:size];
+    return [UIFont fontWithName:@"OpenSans-Light" size:size];
 }
 
 + (UIFont*) boldFontOfSize:(NSInteger)size {
-    return [UIFont fontWithName:@"GothamHTF-Bold" size:size];
+    return [UIFont fontWithName:@"OpenSans-Extrabold" size:size];
 }
 
 @end

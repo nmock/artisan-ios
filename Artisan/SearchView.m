@@ -40,7 +40,7 @@
         self.searchField.returnKeyType = UIReturnKeySearch;
         self.searchField.clearsOnBeginEditing = YES;
         self.searchField.clearButtonMode = UITextFieldViewModeWhileEditing;
-        self.searchField.font = [Artisan boldFontOfSize:20.0];
+        self.searchField.font = [Artisan boldFontOfSize:22.0];
         [self addSubview:self.searchField];
     }
     return self;
