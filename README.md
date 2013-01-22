@@ -45,7 +45,7 @@ Paginate 8Tracks mix feed
 
 Wrap 8Tracks mix feed
 
-Parse / handle links in artist bio (i.e. correct mispellings, link to other artist pagees, etc.)
+Parse / handle links in artist bio (i.e. correct mispellings, link to other artist pages, etc.)
 
 Save bandwidth / load times by loading remote @2x / @1x assets appropriately
 
