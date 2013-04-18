@@ -1,7 +1,7 @@
 Artisan for iOS
 ===========
 
-Artisan is a simple iOS application to search for and display information and related mixes from a particular musical artist. It utilizes the 8Tracks and Last.FM APIs. It was created in less than half a day (6-8 hours)!
+Artisan is a simple iOS application to search for and display information and related mixes from a particular musical artist. It utilizes the 8tracks and Last.FM APIs. It was created in less than half a day (6-8 hours)!
 
 If you have any questions, email me at nathan@nathanmock.com or create a new issue with specifics.
 
@@ -12,7 +12,7 @@ If you have any questions, email me at nathan@nathanmock.com or create a new iss
 ![Playing Mix](http://i.imgur.com/XjiVGml.gif)
 
 ## Getting Started
-Obtain your API keys from [Last.FM](http://www.last.fm/api/account/create) and [8Tracks](http://8tracks.com/developers/new).
+Obtain your API keys from [Last.FM](http://www.last.fm/api/account/create) and [8tracks](http://8tracks.com/developers/new).
 
 Next, open up Xcode and define the constants, `EIGHT_TRACKS_API_KEY`and `LAST_FM_API_KEY` in [`ArtistInformationResultsHandler.h`](https://github.com/nmock/artisan-ios/blob/master/Artisan/ArtistInformationResultsHandler.h) with the API keys you just obtained.
 
@@ -41,9 +41,9 @@ Follow me on Twitter, [@nmock](http://www.twitter.com/nmock).
 ## Known Bugs / Possible improvements
 More robust API response field / error checking
 
-Paginate 8Tracks mix feed
+Paginate 8tracks mix feed
 
-Wrap 8Tracks mix feed
+Wrap 8tracks mix feed
 
 Parse / handle links in artist bio (i.e. correct mispellings, link to other artist pages, etc.)
 
